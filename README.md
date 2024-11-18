@@ -1,0 +1,2 @@
+# AI-Powered-Marketplace-for-Buying-and-Selling-Businesses-in-Canada
+The AI-Powered Marketplace for Buying and Selling Businesses in Canada connects buyers and sellers with AI-driven features. It offers personalized business listings, predictive analytics, automated realtor matching, and customizable ads. Built with PHP, JavaScript, and MySQL, the platform ensures seamless user experience and optimized transactions.
